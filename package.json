@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heller166/env-import/issues"
   },
-  "homepage": "https://github.com/heller166/env-import#readme"
+  "homepage": "https://github.com/heller166/env-import#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
 }
