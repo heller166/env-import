@@ -1,6 +1,6 @@
 {
   "name": "env-import",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Import environment variables with dotenv in an absolute import using ES6 import syntax",
   "main": "./distribution/index.js",
   "scripts": {
